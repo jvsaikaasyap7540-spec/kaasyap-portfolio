@@ -1,0 +1,7 @@
+{
+  "sessionId": "31084fc0-f380-4b70-a603-647b4d9fe5d2",
+  "createdUtc": "2026-09-21T19:30:54.4802448Z",
+  "intent": {
+    "userPrompt": "Onboard and deploy this project to Azure using the complete `azure-app-onboard` pipeline. Analyze readiness, plan the Azure architecture and cost, generate validated infrastructure, deploy every service, and verify the live application."
+  }
+}
